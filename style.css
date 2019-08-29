@@ -25,3 +25,7 @@ figure {
 figcaption {
   font-size: 10px;
 }
+
+section {
+  text-align: center;
+}
