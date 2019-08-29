@@ -29,3 +29,7 @@ figcaption {
 section {
   text-align: center;
 }
+
+p {
+  width: 800px;
+}
