@@ -29,4 +29,5 @@ figcaption {
 
 #featured-property > p {
   color: red;
+  align-content: center;
 }
