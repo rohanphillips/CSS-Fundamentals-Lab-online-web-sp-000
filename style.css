@@ -18,7 +18,7 @@ a {
   background-color: gray;
 }
 
-figure {
+figure[id="featured-property"] {
   text-align: center
 }
 
