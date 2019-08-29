@@ -26,11 +26,6 @@ figcaption {
   font-size: 10px;
 }
 
-section {
-
-}
-
-figure section p {
-  width: 800px;
+#featured-property > p {
   color: red;
 }
