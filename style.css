@@ -12,6 +12,11 @@ nav {
   text-align: center;
 }
 
+a {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
 figure {
   text-align: center
 }
