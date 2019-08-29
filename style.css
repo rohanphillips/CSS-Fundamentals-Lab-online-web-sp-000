@@ -31,5 +31,5 @@ figcaption {
   color: red;
   text-align: : center;
   width: 900px;
-  left: 50%;
+  position: relative;
 }
