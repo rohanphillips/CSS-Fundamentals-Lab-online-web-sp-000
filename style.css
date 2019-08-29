@@ -30,4 +30,5 @@ figcaption {
 #featured-property > p {
   color: red;
   align-content: center;
+  width: 900px;
 }
